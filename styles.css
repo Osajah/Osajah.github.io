@@ -1,0 +1,159 @@
+.section1 {
+  height: 80px;
+  float: left;
+  width:1864px;
+  background-color: #021e42;
+  }
+
+.icon {
+  height: 6px;
+  width: 1px;
+  float: left;
+  float: inline-start;
+  margin-left: 100%;
+  margin-top: 2px;
+  margin-inline: auto;
+}
+.toolbar-section {
+
+  width: 330px;
+  float: left;
+  margin-left: 270px;
+
+}
+.btn1 {
+  width: 100px;
+  height: 40px;
+  background: #021e42;
+  border: 2px solid #ffffff;
+  margin-top: 13px;
+  color:#ffffff;
+  font-size: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+
+}
+.btn1:focus {
+  outline: none;
+}
+
+  .menu {
+    width: 1200px;
+    float: left;
+    height: 80px;
+  }
+
+  ul {
+    float: left;
+    display: flex;
+    margin-left: 580px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  ul li{
+    list-style: none;
+    margin-left: 40px;
+    margin-top: 15px;
+    font-size: 16px;
+  }
+  ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+  }
+  ul li a:hover{
+    color:#021e42
+  }
+  .search {
+    width: 330px;
+    float: left;
+    margin-left: 270px;
+  }
+  .srch {
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #ffffff;
+    margin-top: 13px;
+    color: #ffffff;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+  }
+  .btn {
+    width: 100px;
+    height: 40px;
+    background: #ffffff;
+    border: 2px solid #ffffff;
+    margin-top: 13px;
+    color:#021e42;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+
+  }
+
+  .btn:focus {
+    outline: none;
+  }
+  .srch:focus {
+    outline: none;
+  }
+  .content {
+    width: 100%;
+    float: center;
+    height: 100px;
+    color: #ffffff;
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 200px;
+    background-color: rgb(204, 198, 196);
+    color: white;
+  }
+  .icon2 {
+    height: 10px;
+    width: 3px;
+    float: left;
+    float: inline-start;
+    margin-left: 100%;
+    margin-top: -4%;
+    margin-inline: auto;
+  }
+  .explore {
+    width: 1200px;
+    float: left;
+    height: 80px;
+  }
+  .container {
+    width: 100%;
+    float: left;
+    margin-left: 0%;
+    color: #ffffff;
+  }
+  h1 {
+    list-style: none;
+    margin-top: auto;
+    font-size: 50px;
+  }
+  .container1 {
+    height: 130px;
+    float: left;
+    width:1864px;
+    background-color: #c1ff72;
+  }
+
+  .menu5 {
+    width: 100%;
+    float: left;
+    margin-top: -1.5%;
+    margin-right: 10%;
+  }
